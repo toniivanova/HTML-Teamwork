@@ -1,0 +1,112 @@
+﻿html, body {
+    width: 100%;
+    font-size: 62.5%;
+    padding: 0;
+    margin: 0;
+    background-color: #8A1C00;
+    text-align: center;
+}
+.logo {
+    font-family: 'Indie Flower', cursive;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 1%;
+    margin-bottom: 10px;
+    font-size: 30px;
+    background-color: #B25A5A;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: #B25A5A;
+}
+
+figure {
+    vertical-align: top;
+    border-style: double;
+    border-width: 1rem;
+    border-color: white;
+    border-radius: 2rem;
+    margin: 0;
+    margin-bottom: 4em;
+    /*margin-right: 10rem;*/
+    margin:2em 5em;
+    padding: 0;
+    display: inline-block;
+    max-width: 100%;
+    /*height:150rem;*/
+}
+
+    figure img {
+        margin: 0;
+        margin-left: 5em;
+        margin-bottom: 2em;
+        padding: 0;
+        max-width: 100%;
+        max-height: 100%;
+        float: right;
+    }
+
+    figure figcaption {
+        padding: 2rem;
+        max-width: 950px; /*70rem;*/
+        line-height: 2em;
+        font-size: 5em;
+        color: white;
+        text-align: left;
+    }
+
+@media (max-width: 500px) {
+    figure{
+        overflow:hidden;
+        border-width:0.5em;
+    }
+    figure figcaption {
+        padding: 0.2em;
+        line-height: 1.5em;
+        font-size: 1em;
+        color: white;
+        text-align: left;
+    }
+
+    figure:hover figcaption {
+        font-size: 1.7em;
+        transform: scale(1.2);
+    }
+}
+
+.footer2 {
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #B25A5A;
+    width: 100%;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+
+.footerBtn {
+    display: inline-block;
+    width: 15em;
+    color: #B25A5A;
+    border: 1px solid black;
+    text-decoration: none;
+    font-weight: bold;
+    background: #D3D3D3;
+    transition: all .3s ease;
+    font-size: 2em;
+    border-radius: 0.5em;
+    padding: 0.1em 1em;
+    margin: 0.25em 10%;
+}
+
+    .footerBtn:hover {
+        color: white;
+        background: red;
+    }

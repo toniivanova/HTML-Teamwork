@@ -1,0 +1,80 @@
+D:\SoftUni\Web Fundamentals (HTML + CSS)\11.TeamWork\trunk\teamworkHTML\bin\teamworkHTML.dll.config
+D:\SoftUni\Web Fundamentals (HTML + CSS)\11.TeamWork\trunk\teamworkHTML\bin\teamworkHTML.dll
+D:\SoftUni\Web Fundamentals (HTML + CSS)\11.TeamWork\trunk\teamworkHTML\bin\teamworkHTML.pdb
+D:\SoftUni\Web Fundamentals (HTML + CSS)\11.TeamWork\trunk\teamworkHTML\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+D:\SoftUni\Web Fundamentals (HTML + CSS)\11.TeamWork\trunk\teamworkHTML\obj\Debug\teamworkHTML.dll
+D:\SoftUni\Web Fundamentals (HTML + CSS)\11.TeamWork\trunk\teamworkHTML\obj\Debug\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\trunk\teamworkHTML\bin\teamworkHTML.dll.config
+C:\Users\D.Valchanova\Desktop\trunk\teamworkHTML\bin\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\trunk\teamworkHTML\bin\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\trunk\teamworkHTML\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\D.Valchanova\Desktop\trunk\teamworkHTML\obj\Debug\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\trunk\teamworkHTML\obj\Debug\teamworkHTML.pdb
+C:\Users\Toni Ivanova\Desktop\team\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll
+C:\Users\Toni Ivanova\Desktop\team\trunk\TeamworkHTML\public_html\bin\teamworkHTML.pdb
+C:\Users\Toni Ivanova\Desktop\team\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\Toni Ivanova\Desktop\team\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.dll
+C:\Users\Toni Ivanova\Desktop\team\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\teamwotkProject\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll.config
+C:\Users\D.Valchanova\Desktop\teamwotkProject\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\teamwotkProject\trunk\TeamworkHTML\public_html\bin\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\teamwotkProject\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\D.Valchanova\Desktop\teamwotkProject\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\teamwotkProject\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\TeamWork-HTML+CSS\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll.config
+C:\Users\D.Valchanova\Desktop\TeamWork-HTML+CSS\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\TeamWork-HTML+CSS\trunk\TeamworkHTML\public_html\bin\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\TeamWork-HTML+CSS\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\D.Valchanova\Desktop\TeamWork-HTML+CSS\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\TeamWork-HTML+CSS\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\TeamWork-HTML+CSS - Copy\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll.config
+C:\Users\D.Valchanova\Desktop\TeamWork-HTML+CSS - Copy\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\TeamWork-HTML+CSS - Copy\trunk\TeamworkHTML\public_html\bin\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\TeamWork-HTML+CSS - Copy\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\D.Valchanova\Desktop\TeamWork-HTML+CSS - Copy\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\TeamWork-HTML+CSS - Copy\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.pdb
+C:\Users\Toni Ivanova\Desktop\HTML-CSS1\TeamworkHTML\public_html\bin\teamworkHTML.dll
+C:\Users\Toni Ivanova\Desktop\HTML-CSS1\TeamworkHTML\public_html\bin\teamworkHTML.pdb
+C:\Users\Toni Ivanova\Desktop\HTML-CSS1\TeamworkHTML\public_html\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\Toni Ivanova\Desktop\HTML-CSS1\TeamworkHTML\public_html\obj\Debug\teamworkHTML.dll
+C:\Users\Toni Ivanova\Desktop\HTML-CSS1\TeamworkHTML\public_html\obj\Debug\teamworkHTML.pdb
+C:\Users\Toni Ivanova\Desktop\HTML-CSS\TeamworkHTML\public_html\bin\teamworkHTML.dll
+C:\Users\Toni Ivanova\Desktop\HTML-CSS\TeamworkHTML\public_html\bin\teamworkHTML.pdb
+C:\Users\Toni Ivanova\Desktop\HTML-CSS\TeamworkHTML\public_html\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\Toni Ivanova\Desktop\HTML-CSS\TeamworkHTML\public_html\obj\Debug\teamworkHTML.dll
+C:\Users\Toni Ivanova\Desktop\HTML-CSS\TeamworkHTML\public_html\obj\Debug\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\rev21\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll.config
+C:\Users\D.Valchanova\Desktop\rev21\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\rev21\trunk\TeamworkHTML\public_html\bin\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\rev21\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\D.Valchanova\Desktop\rev21\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\rev21\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\rev23\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll.config
+C:\Users\D.Valchanova\Desktop\rev23\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\rev23\trunk\TeamworkHTML\public_html\bin\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\rev23\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\D.Valchanova\Desktop\rev23\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\rev23\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.pdb
+C:\Users\Toni Ivanova\Desktop\New folder (2)\HTML-CSS\TeamworkHTML\public_html\bin\teamworkHTML.dll
+C:\Users\Toni Ivanova\Desktop\New folder (2)\HTML-CSS\TeamworkHTML\public_html\bin\teamworkHTML.pdb
+C:\Users\Toni Ivanova\Desktop\New folder (2)\HTML-CSS\TeamworkHTML\public_html\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\Toni Ivanova\Desktop\New folder (2)\HTML-CSS\TeamworkHTML\public_html\obj\Debug\teamworkHTML.dll
+C:\Users\Toni Ivanova\Desktop\New folder (2)\HTML-CSS\TeamworkHTML\public_html\obj\Debug\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\rev32\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll.config
+C:\Users\D.Valchanova\Desktop\rev32\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\rev32\trunk\TeamworkHTML\public_html\bin\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\rev32\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\D.Valchanova\Desktop\rev32\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\rev32\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\rev44\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll.config
+C:\Users\D.Valchanova\Desktop\rev44\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\rev44\trunk\TeamworkHTML\public_html\bin\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\rev44\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\D.Valchanova\Desktop\rev44\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\rev44\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\rev45a\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll.config
+C:\Users\D.Valchanova\Desktop\rev45a\trunk\TeamworkHTML\public_html\bin\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\rev45a\trunk\TeamworkHTML\public_html\bin\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\rev45a\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\D.Valchanova\Desktop\rev45a\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\rev45a\trunk\TeamworkHTML\public_html\obj\Debug\teamworkHTML.pdb

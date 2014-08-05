@@ -1,0 +1,469 @@
+﻿html, body {
+    width: 100%;
+    font-size: 62.5%; /*20px;*/
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #8A1C00;
+    margin: 0; 
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
+
+figure, figure div, figure img {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+}
+
+.footer2 {
+    margin:0;
+    padding:0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #B25A5A;
+    width: 100%;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+
+.footerBtn {
+    
+    display: inline-block;
+    width: 15em;
+    color: #B25A5A;
+    border: 1px solid black;
+    text-decoration: none;
+    font-weight: bold;
+    background: #D3D3D3;
+    transition: all .3s ease;
+    font-size: 2em;
+    border-radius: 0.5em;
+    padding: 0.1em 1em;
+    margin:0.25em 10%;
+}
+.footerBtn:hover{
+    color:white;
+    background: red;
+}
+
+
+/* Първа сцена - Исторя 2*/
+#responsive2-1 {
+    font-size: 2rem;
+}
+
+figcaption{
+    display: none;
+}
+
+#first-scene2 img {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#first-scene2 {
+    overflow: visible;
+    position: relative !important;
+    background-color: yellow;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble2-1 {
+    background-image: url("../IMG/2/2.1-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 46.2em;
+    top: 4.9em;
+    width: 11em;
+    height: 9em;
+    z-index: 5;
+}
+
+    #bubble2-1 p {
+        display: block;
+        font-size: 1em;
+        padding-left: 0.7em;
+        padding-right: 1.1em;
+        padding-top: 1.5em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble2-1:hover {
+        color: red;
+        transform: scale(2.5);
+        -webkit-transform: scale(2.5);
+    }
+
+/* Втора сцена - Исторя 2*/
+#responsive2-2 {
+    font-size: 2rem;
+}
+
+#second-scene2 img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    /*min-width: 250px;*/
+    height: auto;
+}
+
+#second-scene2 {
+    overflow: visible;
+    position: relative !important;
+    background-color: yellow;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+#bubble2-2-1 {
+    background-image: url("../IMG/2/2-2-1-bubblepsd.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 18.2em;
+    top: 1em;
+    width: 17em;
+    height: 12em;
+    z-index: 5;
+}
+
+    #bubble2-2-1 p {
+        display: block;
+        font-size: 1em;
+        padding-left: 2.5em;
+        padding-right: 6.8em;
+        padding-top: 2em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble2-2-1:hover {
+        color: red;
+        left: 17.8em;
+        top: 0.8em;
+        transform: scale(2);
+        -webkit-transform: scale(2);
+    }
+
+
+#bubble2-2-2 {
+    background-image: url("../IMG/2/2-2-2-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 30.3em;
+    top: 110.4em;
+    width: 14em;
+    height: 12em;
+    z-index: 5;
+}
+
+    #bubble2-2-2 p {
+        display: block;
+        font-size: 1.2em;
+        padding-left: 4em;
+        padding-right: 3em;
+        padding-top: 3em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble2-2-2:hover {
+        color: red;
+        left: 31.3em;
+        top: 110.4em;
+        transform: scale(1.5);
+        -webkit-transform: scale(1.5);
+    }
+
+        #bubble2-2-2:hover p {
+            display: block;
+            font-size: 1.4em;
+            padding-left: 3em;
+            padding-right: 3em;
+            padding-top: 2.5em;
+            z-index: 6;
+            margin: 0;
+        }
+
+/* Трета сцена - Исторя 2*/
+#responsive2-3 {
+    font-size: 2rem;
+}
+
+#third-scene2 img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    /*min-width: 250px;*/
+    height: auto;
+}
+
+#third-scene2 {
+    overflow: visible;
+    position: relative !important;
+    background-color: yellow;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble2-3-1 {
+    background-image: url("../IMG/2/2-3-1-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 81.1em;
+    top: 5.6em;
+    width: 11em;
+    height: 5em;
+    z-index: 5;
+}
+
+    #bubble2-3-1 p {
+        display: block;
+        font-size: 0.5em;
+        padding-left: 0.8em;
+        padding-right: 0.8em;
+        padding-top: 1.3em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble2-3-1:hover {
+        background-image: url("../IMG/2/2-3-1-pop-bubble.gif");
+        color: red;
+        left: 81.1em;
+        top: 5.6em;
+        transform: scale(2);
+        -webkit-transform: scale(2);
+    }
+
+
+#bubble2-3-2 {
+    background-image: url("../IMG/2/2-3-2-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 77em;
+    top: 13em;
+    width: 16em;
+    height: 8em;
+    z-index: 5;
+}
+
+    #bubble2-3-2 p {
+        display: block;
+        font-size: 1.2em;
+        padding-left: 3em;
+        padding-right: 1em;
+        padding-top: 1em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble2-3-2:hover {
+        background-image: url("../IMG/2/2-3-2-pop-bubble.gif");
+        color: red;
+        left: 77em;
+        top: 13em;
+        transform: scale(1.5);
+        -webkit-transform: scale(1.5);
+    }
+
+
+#bubble2-3-3 {
+    background-image: url("../IMG/2/2-3-3-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 86.4em;
+    top: 108em;
+    width: 8em;
+    height: 7em;
+    z-index: 5;
+}
+
+    #bubble2-3-3 p {
+        display: block;
+        font-size: 1.2em;
+        padding-left: 1.5em;
+        padding-right: 0.5em;
+        padding-top: 1em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble2-3-3:hover {
+        color: red;
+        transform: scale(2.5);
+        -webkit-transform: scale(2.5);
+    }
+
+
+/* Четвърта сцена - Исторя 2*/
+#responsive2-4 {
+    font-size: 2rem;
+}
+
+#fourth-scene2 img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    /*min-width: 250px;*/
+    height: auto;
+}
+
+#fourth-scene2 {
+    overflow: visible;
+    position: relative !important;
+    background-color: yellow;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble2-4-1 {
+    background-image: url("../IMG/2/2-4-1-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 5.3em;
+    top: 63.8em;
+    width: 14em;
+    height: 17em;
+    z-index: 5;
+}
+
+    #bubble2-4-1 p {
+        display: block;
+        font-size: 1em;
+        padding-left: 0.5em;
+        padding-right: 2.8em;
+        padding-top: 2em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble2-4-1:hover {
+        color: red;
+        left: 1em;
+        top: 67.8em;
+        transform: scale(2);
+        -webkit-transform: scale(2);
+    }
+
+
+#bubble2-4-2 {
+    background-image: url("../IMG/2/2-4-2-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 47.3em;
+    top: 117.4em;
+    width: 18em;
+    height: 10em;
+    z-index: 5;
+}
+
+    #bubble2-4-2 p {
+        display: block;
+        font-size: 1.2em;
+        padding-left: 1em;
+        padding-right: 6em;
+        padding-top: 3.2em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble2-4-2:hover {
+        color: red;
+        left: 47.3em;
+        top: 117.6em;
+        transform: scale(1.5);
+        -webkit-transform: scale(1.5);
+    }
+
+       /* Пета сцена - Исторя 2*/
+#responsive2-5 {
+    font-size: 2rem;
+}
+
+#fifth-scene2 img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    /*min-width: 250px;*/
+    height: auto;
+}
+
+#fifth-scene2 {
+    overflow: visible;
+    position: relative !important;
+    background-color: yellow;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble2-5-1 {
+    background-image: url("../IMG/2/2-5-1-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 31.2em;
+    top: 33.1em;
+    width: 16em;
+    height: 12em;
+    z-index: 5;
+}
+
+    #bubble2-5-1 p {
+        display: block;
+        font-size: 1.1em;
+        padding-left: 1.5em;
+        padding-right: 1.2em;
+        padding-top: 6em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble2-5-1:hover {
+        color: red;
+        transform: scale(2);
+        -webkit-transform: scale(2);
+    }
+@media (max-width: 800px) {
+    figcaption {
+        display: block;
+        
+    }
+
+    figure div {
+        display: none;
+    }
+}
+
+@media (min-width: 1390px) {
+
+    figcaption {
+      display: block;
+    }
+    figure div {
+        display: none;
+    }
+}
+.logo {
+    font-family: 'Indie Flower', cursive;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 1%;
+    margin-bottom: 10px;
+    font-size: 30px;
+    background-color: #B25A5A;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    background-color: #B25A5A;
+}

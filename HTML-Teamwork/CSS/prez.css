@@ -1,0 +1,63 @@
+﻿#Image {
+     max-width: 100%;
+     max-height:100%;
+    font-size: 62.5%; /*20px;*/
+    padding: 0;
+    display: block;
+    margin-top: 1.5rem;
+    margin-bottom:1.5rem;
+    margin-left:auto;
+    margin-right:auto;
+    
+
+}
+
+.footer2 {
+    margin:0;
+    padding:0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #B25A5A;
+    width: 100%;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+
+.footerBtn {
+    
+    display: inline-block;
+    width: 15rem;
+    color: #B25A5A;
+    border: 1px solid black;
+    text-decoration: none;
+    font-weight: bold;
+    background: #D3D3D3;
+    transition: all .3s ease;
+    font-size: 2em;
+    border-radius: 0.5em;
+    /*padding: 0.1em 1em;*/
+    margin: 10px 3%;
+    max-width: 60%;
+}
+.footerBtn:hover{
+    color:white;
+    background: red;
+}
+.logo {
+    font-family: 'Indie Flower', cursive;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 1%;
+    margin-bottom: 10px;
+    font-size: 30px;
+    background-color: #B25A5A;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+    background-color: #B25A5A;
+}

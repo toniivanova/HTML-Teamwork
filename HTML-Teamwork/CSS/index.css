@@ -1,0 +1,208 @@
+body {
+    text-align: center;
+    background-color: #8A1C00;
+    padding-right: 2%;
+}
+
+main {
+    width: 100%;
+    position: relative;
+    margin-left: 1%;
+    opacity: 1;
+}
+
+    main * {
+        color: #FFFFFF;
+    }
+
+.clear {
+    clear: both;
+    height: 1px;
+    width: 100%;
+}
+
+main::after {
+    content: "";
+    background: url("../IMG/background.png");
+    background-position: center center;
+    /*background-repeat: no-repeat;*/
+    opacity: 0.4;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+#first-link {
+    float: left;
+    background-image: url('../IMG/Nakov-marvel.png');
+    background-color: #000000;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    opacity: 1;
+    font-family: 'Indie Flower', cursive;
+    font-weight: 700;
+    font-size: 35px;
+    color: white;
+    line-height: 160px;
+    text-align: center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#second-link {
+    float: right;
+    background-image: url('../IMG/Teodor-marvel.png');
+    background-color: #000000;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: 700;
+    font-size: 35px;
+    color: white;
+    line-height: 160px;
+    text-align: center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#third-link {
+    float: left;
+    background-image: url('../IMG/Vlado-marvel.png');
+    background-color: #000000;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: 700;
+    font-size: 35px;
+    color: white;
+    line-height: 160px;
+    text-align: center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#fourth-link {
+    float: right;
+    background-image: url('../IMG/Petya-marvel.png');
+    background-color: #000000;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    border-bottom-color: white;
+    border-width: 5px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: 700;
+    font-size: 35px;
+    color: white;
+    line-height: 160px;
+    text-align: center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+#human {
+    border-radius: 50px;
+    margin: 0px auto;
+    background-image: url('../IMG/new ball1.jpg');
+    background-position: center center;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 225px;
+    left: 550px;
+}
+
+.logo {
+    font-family: 'Indie Flower', cursive;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 1%;
+    margin-bottom: 10px;
+    font-size: 2em;
+    background-color: #B25A5A;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: #B25A5A;
+}
+
+.footer {
+    width: 100%;
+    background-color: #B25A5A;
+    margin-left: 1%;
+}
+
+.footerUl {
+    padding: 0;
+}
+
+    .footerUl li {
+        display: inline-block;
+        list-style-type: none;
+        padding: 5px 7%;
+    }
+
+        .footerUl li:first-child {
+            display: inline-block;
+            list-style-type: none;
+        }
+
+        .footerUl li:hover {
+            /*background-color:pink;*/
+            /*font-size: 1rem;*/
+        }
+
+            .footerUl li:hover a {
+                background-color: red;
+                color: white;
+            }
+
+#rdNakov, #rdTeodor, #rdVlado, #rdPetya {
+    display: inline-block;
+    visibility: hidden;
+    width: 150px;
+    height: 1em;
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+    color: red;
+    font-size: 0.5em;
+    vertical-align: top;
+}
+
+#css3-validator {
+    border: 0;
+    width: 3em;
+    height: 1em;
+}
+@media (max-width: 800px) {
+    #rdNakov, #rdTeodor, #rdVlado, #rdPetya {
+        margin: 0;
+        padding: 0;
+        text-shadow: none;
+        line-height: 2em;
+        visibility: visible;
+        width: 150px;
+        height: 3em;
+        text-align: center;
+        background-color: #B25A5A;
+        color: red;
+        font-size: 0.3em;
+       
+    }
+
+        #rdNakov:hover, #rdTeodor:hover, #rdVlado:hover, #rdPetya:hover {
+            background-color: red;
+            color: #FFF;
+        }
+
+    #first-link, #second-link, #third-link, #fourth-link {
+        margin-bottom: 1.5em;
+    }
+}

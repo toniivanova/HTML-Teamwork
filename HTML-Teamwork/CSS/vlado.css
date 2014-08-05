@@ -1,0 +1,1196 @@
+﻿html, body {
+    width: 100%;
+    font-size: 62.5%; /*20px;*/
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #8A1C00;
+    text-align: center;
+}
+
+figure, figure div, figure img {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+}
+
+
+.footer2 {
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #B25A5A;
+    width: 100%;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+
+.footerBtn {
+    display: inline-block;
+    width: 15em;
+    color: #B25A5A;
+    border: 1px solid black;
+    text-decoration: none;
+    font-weight: bold;
+    background: #D3D3D3;
+    transition: all .3s ease;
+    font-size: 2em;
+    border-radius: 0.5em;
+    padding: 0.1em 1em;
+    margin: 0.25em 10%;
+}
+
+    .footerBtn:hover {
+        color: white;
+        background: red;
+    }
+
+figcaption {
+    display: none;
+}
+/* Първа сцена*/
+#responsive1-1 {
+    font-size: 1rem;
+    max-width: 350px;
+}
+
+#first-page img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+}
+
+#first-page {
+    position: relative !important;
+    display: inline-block;
+    /*margin:0 auto;*/
+}
+
+#bubble1-1-1 {
+    background-image: url("../IMG/1/1.1.1-bubble.png");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 21em;
+    top: 1.2em;
+    width: 12em;
+    height: 12em;
+    z-index: 5;
+}
+
+    #bubble1-1-1 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1em;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-top: 1.25em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-1-1:hover {
+        color: red;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+
+#bubble1-1-2:hover {
+    color: red;
+    z-index: 550;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+}
+
+#bubble1-1-2 {
+    background-image: url("../IMG/1/1.1.2-bubble.png");
+    background-repeat: no-repeat;
+    width: 19em;
+    height: 15em;
+    font-size: 1em;
+    position: absolute;
+    left: 35em;
+    top: 1.2em;
+}
+
+    #bubble1-1-2 p {
+        display: block;
+        font-size: 1em;
+        padding-left: 0.75em;
+        padding-right: 0.75em;
+        padding-top: 2em;
+    }
+
+
+
+
+
+
+/*Втора сцена*/
+#responsive1-2 {
+    font-size: 1.3rem;
+    max-width: 153px;
+}
+
+#second-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#second-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble1-2-1 {
+    background-image: url("../IMG/1/1.2.1a-bubble.png");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 0.3em;
+    top: 0.3em;
+    width: 18em;
+    height: 19em;
+    z-index: 5;
+}
+
+    #bubble1-2-1 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1.3em;
+        padding-left: 3em;
+        padding-right: 4em;
+        padding-top: 2em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-2-1:hover {
+        color: red;
+        background-image: url("../IMG/1/1.2.1-bubble.png");
+        left: -3em;
+        top: -2.0em;
+        width: 18em;
+        height: 19em;
+        background-repeat: no-repeat;
+        font-size: 1.15em;
+        /*transform: scale(1.2);
+    -webkit-transform: scale(1.2);*/
+    }
+
+
+
+#bubble1-2-2 {
+    background-image: url("../IMG/1/1.2.2-start-bubble.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 22.6em;
+    height: 17.1em;
+    font-size: 1em;
+    position: absolute;
+    left: 5.1em;
+    top: 27.3em;
+}
+
+    #bubble1-2-2 p {
+        display: block;
+        font-size: 1.2em;
+        padding-left: 0.75em;
+        padding-right: 3em;
+        padding-top: 5.5em;
+    }
+
+    #bubble1-2-2:hover {
+        background-image: url("../IMG/1/1.2.2-bubble.png");
+        left: 4.4em;
+        top: 27em;
+        color: red;
+        z-index: 6;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+
+
+
+/* Трета сцена*/
+#responsive1-3 {
+    font-size: 2.3rem;
+    max-width: 127px;
+}
+
+#third-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#third-scene {
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble1-3 {
+    display: block;
+    background-image: url("../IMG/1/1.3-bubble.png");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 0.6em;
+    top: 0.7em;
+    width: 12em;
+    height: 12em;
+    z-index: 5;
+}
+
+    #bubble1-3 p {
+        text-align: center;
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1.2em;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        padding-top: 2.5em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-3:hover {
+        color: red;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+
+
+
+
+
+/*Четвърта сцена*/
+#responsive1-4 {
+    font-size: 1.5rem;
+    max-width: 169px;
+    height: auto;
+}
+
+#fourth-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#fourth-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble1-4-1 {
+    background-image: url("../IMG/1/1.4.1-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 0.5em;
+    top: 0.3em;
+    width: 23em;
+    height: 9em;
+    z-index: 5;
+}
+
+    #bubble1-4-1 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1.1em;
+        padding-left: 3em;
+        padding-right: 1em;
+        padding-top: 1em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-4-1:hover {
+        color: red;
+        background-image: url("../IMG/1/1.4.1-pop-bubble.gif");
+        background-repeat: no-repeat;
+        position: absolute !important;
+        left: 0.5em;
+        top: -1em;
+        width: 23em;
+        height: 12em;
+        z-index: 15;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+
+        #bubble1-4-1:hover p {
+            display: block;
+            font-size: 1.1em;
+            padding-left: 3em;
+            padding-right: 1em;
+            padding-top: 3em;
+            z-index: 6;
+            margin: 0;
+        }
+
+#bubble1-4-2 {
+    background-image: url("../IMG/1/1.4.2-bubble.gif");
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 15em;
+    height: 13em;
+    font-size: 1em;
+    position: absolute;
+    left: 11.8em;
+    top: 7.8em;
+}
+
+    #bubble1-4-2 p {
+        display: block;
+        font-size: 1.2em;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-top: 2em;
+    }
+
+    #bubble1-4-2:hover {
+        background-image: url("../IMG/1/1.4.2-pop-bubble.gif");
+        width: 17em;
+        height: 13em;
+        font-size: 1em;
+        position: absolute;
+        left: 11em;
+        top: 7.8em;
+        z-index: 10;
+        color: red;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+
+
+/* Пета сцена*/
+#responsive1-5 {
+    font-size: 1.8rem;
+    max-width: 215px;
+    height: auto;
+}
+
+#fifth-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#fifth-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble1-5 {
+    display: block;
+    background-image: url("../IMG/1/1.5-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 0em;
+    top: 0.9em;
+    width: 15.3em;
+    height: 9em;
+    z-index: 5;
+}
+
+    #bubble1-5 p {
+        text-align: center;
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1.2em;
+        padding-left: 1em;
+        padding-right: 0.5em;
+        padding-top: 2em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-5:hover {
+        color: red;
+        display: block;
+        background-image: url("../IMG/1/1.5-pop-bubble.gif");
+        background-repeat: no-repeat;
+        position: absolute !important;
+        left: 0em;
+        top: 0.9em;
+        width: 18em;
+        height: 9em;
+        z-index: 5;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+
+        #bubble1-5:hover p {
+            text-align: left;
+            /*border: 1px solid #000;*/
+            display: block;
+            font-size: 1.1em;
+            padding-left: 2.2em;
+            padding-right: 3.5em;
+            padding-top: 2em;
+            z-index: 6;
+            margin: 0;
+        }
+
+/* Шеста сцена*/
+#responsive1-6 {
+    font-size: 1.7rem;
+    max-width: 245px;
+}
+
+#sixth-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#sixth-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble1-6 {
+    display: block;
+    background-image: url("../IMG/1/1.6-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 3em;
+    top: 0.8em;
+    width: 15em;
+    height: 11em;
+    z-index: 5;
+}
+
+    #bubble1-6 p {
+        text-align: center;
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1.2em;
+        padding-left: 1em;
+        padding-right: 0.5em;
+        padding-top: 2em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-6:hover {
+        color: red;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+/* Втора страница*/
+/*Седма сцена*/
+#responsive1-7 {
+    font-size: 2rem;
+    max-width: 550px;
+}
+
+#seven-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#seven-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble1-7 {
+    background-image: url("../IMG/1/1.7-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 60.7em;
+    top: 11.2em;
+    width: 19em;
+    height: 13em;
+    z-index: 5;
+}
+
+    #bubble1-7 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 2em;
+        padding-left: 2em;
+        padding-right: 1em;
+        padding-top: 2em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-7:hover {
+        color: red;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+
+/*Осма сцена*/
+#responsive1-8 {
+    font-size: 2rem;
+    max-width: 110px;
+}
+
+#eight-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#eight-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble1-8 {
+    background-image: url("../IMG/1/1.8-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 0.5em;
+    top: 0.2em;
+    width: 19em;
+    height: 13em;
+    z-index: 5;
+}
+
+    #bubble1-8 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1.4em;
+        padding-left: 0.5em;
+        padding-right: 5.5em;
+        padding-top: 1em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-8:hover {
+        position: absolute !important;
+        left: 2em;
+        top: 0.3em;
+        color: red;
+        transform: scale(1.4);
+        -webkit-transform: scale(1.4);
+    }
+/*Девета сцена*/
+#responsive1-9 {
+    font-size: 2rem;
+    max-width: 103px;
+}
+
+#ninth-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#ninth-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble1-9 {
+    background-image: url("../IMG/1/1.9-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 0.6em;
+    top: 14.8em;
+    width: 12em;
+    height: 20em;
+    z-index: 5;
+}
+
+    #bubble1-9 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1em;
+        padding-left: 1em;
+        padding-right: 0.5em;
+        padding-top: 2em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-9:hover {
+        position: absolute !important;
+        left: 1.9em;
+        top: 17.3em;
+        color: red;
+        transform: scale(1.4);
+        -webkit-transform: scale(1.4);
+    }
+
+/*Десета сцена*/
+#responsive1-10 {
+    font-size: 2rem;
+    max-width: 106px;
+}
+
+#tenth-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#tenth-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble1-10 {
+    background-image: url("../IMG/1/1.10-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 5.1em;
+    top: 35.4em;
+    width: 12em;
+    height: 10em;
+    z-index: 5;
+}
+
+    #bubble1-10 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1em;
+        padding-left: 1em;
+        padding-right: 2.5em;
+        padding-top: 3.5em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-10:hover {
+        color: red;
+        transform: scale(1.4);
+        -webkit-transform: scale(1.4);
+    }
+
+
+/*Единадесета сцена*/
+#responsive1-11 {
+    font-size: 1.8rem;
+    max-width: 106px;
+}
+
+#eleventh-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#eleventh-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+/*Дванадесета сцена*/
+#responsive1-12 {
+    font-size: 2rem;
+    max-width: 152px;
+}
+
+#twelfth-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#twelfth-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble1-12 {
+    background-image: url("../IMG/1/1.12-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 0.5em;
+    top: 0em;
+    width: 19em;
+    height: 12em;
+    z-index: 5;
+}
+
+    #bubble1-12 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1em;
+        padding-left: 1em;
+        padding-right: 1.5em;
+        padding-top: 2.5em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-12:hover {
+        background-image: url("../IMG/1/1.12-pop-bubble.gif");
+        background-repeat: no-repeat;
+        position: absolute !important;
+        left: 1.8em;
+        top: -1.5em;
+        width: 19em;
+        height: 14em;
+        color: red;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+
+        #bubble1-12:hover p {
+            /*border: 1px solid #000;*/
+            display: block;
+            font-size: 1.4em;
+            padding-left: 1em;
+            padding-right: 2.5em;
+            padding-top: 2em;
+            z-index: 6;
+            margin: 0;
+        }
+
+/*Тринадесета сцена*/
+#responsive1-13 {
+    font-size: 1rem;
+    max-width: 64px;
+}
+
+#thirteenth-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#thirteenth-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+
+/*Четиринадесета сцена*/
+#responsive1-14 {
+    font-size: 2rem;
+    max-width: 230px;
+}
+
+#fourteenth-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#fourteenth-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble1-14-1 {
+    background-image: url("../IMG/1/1.14-1-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 0em;
+    top: 0.1em;
+    width: 15em;
+    height: 11em;
+    z-index: 5;
+}
+
+    #bubble1-14-1 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1em;
+        padding-left: 0.5em;
+        padding-right: 2.5em;
+        padding-top: 2.5em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-14-1:hover {
+        background-image: url("../IMG/1/1.14-1-pop-bubble.gif");
+        background-repeat: no-repeat;
+        position: absolute !important;
+        left: -2.8em;
+        top: -2.5em;
+        width: 19em;
+        height: 14em;
+        color: red;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+
+        #bubble1-14-1:hover p {
+            display: block;
+            font-size: 1.4em;
+            padding-left: 1em;
+            padding-right: 2.5em;
+            padding-top: 2em;
+            z-index: 6;
+            margin: 0;
+        }
+
+#bubble1-14-2 {
+    background-image: url("../IMG/1/1.14-2-bubbles.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 20.8em;
+    top: 0.8em;
+    width: 12em;
+    height: 9em;
+    z-index: 5;
+}
+
+    #bubble1-14-2 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1em;
+        padding-left: 2.5em;
+        padding-right: 2.5em;
+        padding-top: 2em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-14-2:hover {
+        color: red;
+        background-image: url("../IMG/1/1.14-2-pop-bubble.gif");
+        background-repeat: no-repeat;
+        position: absolute !important;
+        left: 20.8em;
+        top: 0.8em;
+        width: 12em;
+        height: 9em;
+        z-index: 5;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+
+        #bubble1-14-2:hover p {
+            display: block;
+            font-size: 1.1em;
+            padding-left: 2em;
+            padding-right: 2.5em;
+            padding-top: 2em;
+            z-index: 6;
+            margin: 0;
+        }
+
+#bubble1-14-3 {
+    background-image: url("../IMG/1/1.14-3.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 21.8em;
+    top: 9.7em;
+    width: 15em;
+    height: 12em;
+    z-index: 5;
+}
+
+    #bubble1-14-3 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1.2em;
+        padding-left: 2.5em;
+        padding-right: 2.5em;
+        padding-top: 2em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-14-3:hover {
+        color: red;
+        background-image: url("../IMG/1/1.14-3-pop bubble.gif");
+        background-repeat: no-repeat;
+        position: absolute !important;
+        left: 21.8em;
+        top: 9.8em;
+        width: 15em;
+        height: 11em;
+        z-index: 5;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+
+
+/*Петнадесета сцена*/
+#responsive1-15 {
+    font-size: 2rem;
+    max-width: 230px;
+}
+
+#fifteenth-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#fifteenth-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble1-15 {
+    background-image: url("../IMG/1/1.15-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 29.5em;
+    top: 0.7em;
+    width: 7em;
+    height: 7em;
+    z-index: 5;
+}
+
+    #bubble1-15 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 2em;
+        padding-left: 0.5em;
+        padding-right: 0em;
+        padding-top: 0.2em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-15:hover {
+        color: red;
+        left: 29.8em;
+        top: 1.2em;
+        transform: scale(1.4);
+        -webkit-transform: scale(1.4);
+    }
+
+
+
+/*Шестнадесета сцена*/
+#responsive1-16 {
+    font-size: 1.2rem;
+    /*max-width:530px;*/
+}
+
+#sixteenth-scene img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+}
+
+#sixteenth-scene {
+    overflow: visible;
+    position: relative !important;
+    display: inline-block;
+    /*margin:200px;*/
+}
+
+#bubble1-16-1 {
+    background-image: url("../IMG/1/1.16-1-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 0em;
+    top: 28.3em;
+    width: 15em;
+    height: 26em;
+    z-index: 5;
+}
+
+    #bubble1-16-1 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1.3em;
+        padding-left: 4.5em;
+        padding-right: 2.5em;
+        padding-top: 9em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-16-1:hover {
+        color: red;
+        left: -0.2em;
+        top: 30.7em;
+        transform: scale(1.7);
+        -webkit-transform: scale(1.7);
+    }
+
+
+#bubble1-16-2 {
+    background-image: url("../IMG/1/1.16-2-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 45.6em;
+    top: 2em;
+    width: 19em;
+    height: 8em;
+    z-index: 5;
+}
+
+    #bubble1-16-2 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1.3em;
+        padding-left: 0.5em;
+        padding-right: 3.5em;
+        padding-top: 0.5em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-16-2:hover {
+        color: red;
+        background-image: url("../IMG/1/1.16-2-pop-bubble.gif");
+        background-repeat: no-repeat;
+        position: absolute !important;
+        left: 45.6em;
+        top: -1em;
+        width: 19em;
+        height: 11em;
+        z-index: 5;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+
+        #bubble1-16-2:hover p {
+            /*border: 1px solid #000;*/
+            display: block;
+            font-size: 1.3em;
+            padding-left: 0.5em;
+            padding-right: 3.5em;
+            padding-top: 2em;
+            z-index: 6;
+            margin: 0;
+        }
+
+#bubble1-16-3 {
+    background-image: url("../IMG/1/1.16-3-bubble.gif");
+    background-repeat: no-repeat;
+    position: absolute !important;
+    left: 45.4em;
+    top: 7.8em;
+    width: 25em;
+    height: 10em;
+    z-index: 5;
+}
+
+    #bubble1-16-3 p {
+        /*border: 1px solid #000;*/
+        display: block;
+        font-size: 1.3em;
+        padding-left: 4em;
+        padding-right: 1.5em;
+        padding-top: 1.5em;
+        z-index: 6;
+        margin: 0;
+    }
+
+    #bubble1-16-3:hover {
+        color: red;
+        background-image: url("../IMG/1/1.16-3-pop-bubble.gif");
+        background-repeat: no-repeat;
+        position: absolute !important;
+        left: 45.4em;
+        top: 7.5em;
+        width: 25em;
+        height: 10em;
+        z-index: 5;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+
+        #bubble1-16-3:hover p {
+            /*border: 1px solid #000;*/
+            display: block;
+            font-size: 1.3em;
+            padding-left: 4.5em;
+            padding-right: 1em;
+            padding-top: 2em;
+            z-index: 6;
+            margin: 0;
+        }
+
+@media (max-width: 500px) {
+    figure {
+        background-color: #8A1C00;
+    }
+
+        figure div {
+            display: none;
+        }
+
+    figcaption {
+        display: block;
+        visibility: visible;
+    }
+}
+
+@media (min-width: 1390px) {
+
+    figure {
+        background-color: #8A1C00;
+    }
+
+        figure div {
+            visibility: hidden;
+        }
+
+    figcaption {
+        display: block;
+        visibility: visible;
+    }
+}
+
+.logo {
+    font-family: 'Indie Flower', cursive;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 1%;
+    margin-bottom: 10px;
+    font-size: 30px;
+    background-color: #B25A5A;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: #B25A5A;
+}
